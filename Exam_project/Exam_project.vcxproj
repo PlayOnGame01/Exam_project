@@ -142,6 +142,7 @@
     <ClCompile Include="info.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Interface.h" />
     <ClInclude Include="Maxsum_in_month.h" />
     <ClInclude Include="Mono_card.h" />
     <ClInclude Include="privat_card.h" />
