@@ -38,5 +38,8 @@
     <ClInclude Include="resourse_category.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Visa_card.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

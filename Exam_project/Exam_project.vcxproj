@@ -148,6 +148,7 @@
     <ClInclude Include="resourse_category.h" />
     <ClInclude Include="Save_info.h" />
     <ClInclude Include="Statistic.h" />
+    <ClInclude Include="Visa_card.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
