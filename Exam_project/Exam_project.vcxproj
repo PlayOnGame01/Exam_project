@@ -142,13 +142,11 @@
     <ClCompile Include="info.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Interface.h" />
+    <ClInclude Include="Money.h" />
+    <ClInclude Include="repeir.h" />
     <ClInclude Include="Maxsum_in_month.h" />
     <ClInclude Include="Mono_card.h" />
     <ClInclude Include="privat_card.h" />
-    <ClInclude Include="resourse_category.h" />
-    <ClInclude Include="Save_info.h" />
-    <ClInclude Include="Statistic.h" />
     <ClInclude Include="Visa_card.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

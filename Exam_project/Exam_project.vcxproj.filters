@@ -23,25 +23,19 @@
     <ClInclude Include="privat_card.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Statistic.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Mono_card.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Maxsum_in_month.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Save_info.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="resourse_category.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Visa_card.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Interface.h">
+    <ClInclude Include="repeir.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Money.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
