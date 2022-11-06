@@ -3,7 +3,7 @@
 #include "Mono_card.h"
 #include "privat_card.h"
 #include "Visa_card.h"
-#include "Wallet.h"
+#include "Money.h"	
 using namespace std;
 
 void Setting() {

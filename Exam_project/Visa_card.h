@@ -45,7 +45,7 @@ public:
 		cin >> data;	//¬вод дн€ рождени€ 
 		cout << "Enter your cvv code: ";
 		cin >> cvv;	// ¬вод 3 задних цифр 
-		while (cvv < 100 || cvv > 999) {
+		while (cvv < 100 || cvv > 999) { //¬вод только 3 значного числа если будет больше тогда выдаст ошибку 
 			cvv = 0;
 			cout << "\nError\nEnter again: ";
 			cin >> cvv; //ќшибка повторный ввод данных пин-кода
